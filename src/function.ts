@@ -20,6 +20,7 @@ console.log(newArray);
 
 
 //function into object***********
+
 const person:{
     name: string;
     balance: number;
