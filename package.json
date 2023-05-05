@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node-dev --respawn --transpile-only ./src/Module-3/asynchronous.ts",
+    "start": "ts-node-dev --respawn --transpile-only ./src/Module-3/maped-type.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

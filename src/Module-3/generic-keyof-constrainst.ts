@@ -14,5 +14,5 @@ function getProperty<x,y extends keyof x>(obj:x,key:y){
     obj[key]
 }
 
-const property=getProperty({name:"parvez",age:100},"age")
+const property=getProperty({name:"parvez",age:100},"name")
 
