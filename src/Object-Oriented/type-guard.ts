@@ -119,4 +119,4 @@ const animal2=new cat1('pershian','cat')           //instance of cat
 
   
 
-getInstanceAnimal(animal2);
+getInstanceAnimal(animal2); 
